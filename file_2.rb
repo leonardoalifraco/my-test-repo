@@ -1,1 +1,1 @@
-Rebased File 2
+Squashed File 2
