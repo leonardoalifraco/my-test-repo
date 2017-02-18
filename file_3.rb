@@ -1,1 +1,1 @@
-File 3
+Squashed File 3
